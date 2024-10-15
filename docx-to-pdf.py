@@ -1,3 +1,4 @@
+#A simple program that asks the user to insert a .docx file and returns the same file in .pdf format
 from tkinter import Tk, filedialog, messagebox, ttk
 from docx2pdf import convert
 import os
