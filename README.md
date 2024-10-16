@@ -1,3 +1,3 @@
-# from docx to pdf in python
+# python
 
-nothing, a simple program that allows you to convert a file from .docx format to .pdf format. The goal is to practice programming
+nothing, simple programs written in python
